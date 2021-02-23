@@ -1,0 +1,14 @@
+
+<h1> Hello World</h1>
+<main>
+<c><p> This HTML webpage was created with the intent of showing off my coding abilities to potential employers. I am currently new to the world of programming, but not to "Information Technology". I am currently A+ and Network+ certifed. I am in the process of expanding my knowleged and seeking new certifications.</p></c>
+
+<p> Future Certifications
+
+	<ol>
+	<li>CompTIA Security+</li>
+	<li>Cisco CCNA</li>
+	<li>Python Institute  PCEP – Certified Entry-Level Python Programmer</li>
+	<li>OCSP</li>
+</p>
+	</main>
